@@ -37,7 +37,7 @@
 
 ## Overview
 
-file:///C:/Users/HP/OneDrive/Desktop/%C2%A0/Hide/Button.html/Image/ss.jpg
+https://github.com/ShreyasLakhani/Button/blob/main/ScreenShot.jpg
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
