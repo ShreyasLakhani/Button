@@ -86,6 +86,5 @@ $ npm start
 
 ## Contact
 
-- Website [Website](https://funny-marshmallow-ffe447.netlify.app/)
 - GitHub [@ShreyasLakhani](https://github.com/ShreyasLakhani)
 - Twitter [@ShreyasLakhani](https://twitter.com/LakhaniShreyas)
