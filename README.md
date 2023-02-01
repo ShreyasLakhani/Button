@@ -86,6 +86,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://funny-marshmallow-ffe447.netlify.app/)
-- GitHub [@your-username](https://github.com/ShreyasLakhani)
-- Twitter [@your-twitter](https://twitter.com/LakhaniShreyas)
+- Website [Website](https://funny-marshmallow-ffe447.netlify.app/)
+- GitHub [@ShreyasLakhani](https://github.com/ShreyasLakhani)
+- Twitter [@ShreyasLakhani](https://twitter.com/LakhaniShreyas)
